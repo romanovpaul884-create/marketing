@@ -1,0 +1,148 @@
+query,frequency,intent,cluster_id,target_url,page_type,priority,source,notes
+# === Расширения после ресёрча конкурентов и SERP (2026-04-29) ===
+# Старое ядро — в core.csv. Здесь только NEW запросы.
+# источники: ligashow, culinary-studios, aggregators, SERP топ-5
+# === Кластер 5 (корпоратив / тимбилдинг) — расширение ===
+коктейльный тимбилдинг спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,SERP+culinary,
+барный тимбилдинг спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,gap,новый ракурс
+винный тимбилдинг спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,gap,
+тимбилдинг для it компании спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,culinary,
+тимбилдинг для агентства спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,gap,
+корпоратив с мастер классом спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,SERP,
+необычный тимбилдинг идеи спб 2026,unknown,commercial-occasion,5,GAP-create-page,landing,2,SERP,
+тимбилдинг до 30 человек спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,gap,
+тимбилдинг от 50 человек спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,gap,для выездного
+корпоратив с барменом спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,gap,
+корпоратив с дегустацией вина спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,gap,
+корпоратив на день рождения компании,unknown,commercial-occasion,5,GAP-create-page,landing,3,gap,
+корпоратив для маленькой команды до 10 человек,unknown,commercial-occasion,5,GAP-create-page,landing,2,SERP,
+команда мероприятий спб,unknown,commercial-occasion,5,GAP-create-page,landing,3,SERP,
+организация корпоратива под ключ спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,SERP,
+# === Кластер 8 (мальчишник) — критический гэп, никто не закрыл ===
+барный мальчишник спб,unknown,commercial-occasion,8,GAP-create-page,landing,1,gap,СВОБОДНАЯ НИША
+коктейльный мальчишник спб,unknown,commercial-occasion,8,GAP-create-page,landing,1,gap,
+мальчишник с дегустацией виски спб,unknown,commercial-occasion,8,GAP-create-page,landing,1,ligashow,у Ligashow есть отдельно дегустация виски
+мальчишник в стиле бар спб,unknown,commercial-occasion,8,GAP-create-page,landing,2,gap,
+мальчишник на дому спб,unknown,commercial-occasion,8,GAP-create-page,landing,2,SERP,для выезда
+мальчишник для компании 10 человек,unknown,commercial-occasion,8,GAP-create-page,landing,2,gap,
+мальчишник без стриптиза идеи спб,unknown,commercial-occasion,8,GAP-create-page,landing,3,SERP,длинный хвост
+# === Кластер 7 (девичник) — расширение ===
+коктейльный девичник спб для 6 человек,unknown,commercial-occasion,7,GAP-create-page,landing,2,SERP,
+винный девичник для 8 человек спб,unknown,commercial-occasion,7,GAP-create-page,landing,2,gap,
+девичник в лофте с баром спб,unknown,commercial-occasion,7,GAP-create-page,landing,1,gap,у нас уникальное преимущество
+девичник с барменом спб,unknown,commercial-occasion,7,GAP-create-page,landing,2,gap,
+тематический девичник коктейли спб,unknown,commercial-occasion,7,GAP-create-page,landing,2,gap,
+# === Кластер 9 (свадьба) — расширение ===
+выездной бар на свадьбу спб цена,unknown,commercial-occasion,9,GAP-create-page,landing,1,SERP,
+бармен на свадьбу спб стоимость,unknown,commercial-occasion,9,GAP-create-page,landing,2,SERP,
+коктейли для гостей на свадьбе спб,unknown,commercial-occasion,9,GAP-create-page,landing,2,gap,
+мастер класс для гостей на свадьбе,unknown,commercial-occasion,9,GAP-create-page,landing,2,gap,
+бар на выездной регистрации спб,unknown,commercial-occasion,9,GAP-create-page,landing,2,SERP,
+свадебный бармен спб,unknown,commercial-occasion,9,GAP-create-page,landing,2,SERP,
+welcome бар на свадьбу спб,unknown,commercial-occasion,9,GAP-create-page,landing,3,SERP,
+# === Кластер 10 (выездной формат) — расширение из ligashow ===
+выездной коктейль бар спб цена,unknown,commercial-product,10,GAP-create-page,landing,1,ligashow,
+аренда выездного бара спб,unknown,commercial-product,10,GAP-create-page,landing,2,SERP,
+заказать выездной бар спб,unknown,commercial-product,10,GAP-create-page,landing,1,ligashow,
+мобильный бар на мероприятие,unknown,commercial-product,10,GAP-create-page,landing,2,ligashow,
+выездной бар с барменом,unknown,commercial-product,10,GAP-create-page,landing,1,ligashow,
+выездной бар с шоу программой,unknown,commercial-product,10,GAP-create-page,landing,2,ligashow,
+бар-шоу на мероприятие спб,unknown,commercial-product,10,GAP-create-page,landing,2,ligashow,
+flair шоу спб,unknown,commercial-product,10,GAP-create-page,landing,3,ligashow,
+жонглирование бутылками шоу спб,unknown,commercial-product,10,GAP-create-page,landing,3,gap,
+# === Гэпы из ligashow (новые продуктовые категории) ===
+дегустация виски спб мастер класс,unknown,commercial-product,2.5,GAP-create-page,product,1,ligashow,НОВЫЙ кластер виски
+мастер класс по виски спб,unknown,commercial-product,2.5,GAP-create-page,product,2,ligashow,
+дегустация скотча спб,unknown,commercial-product,2.5,GAP-create-page,product,3,ligashow,
+мужской мастер класс виски спб,unknown,commercial-product,2.5,GAP-create-page,product,2,gap,
+пивной мастер класс спб,unknown,commercial-product,2.6,GAP-create-page,product,2,ligashow,НОВЫЙ кластер пиво
+дегустация пива спб мастер класс,unknown,commercial-product,2.6,GAP-create-page,product,3,ligashow,
+крафтовое пиво дегустация спб,unknown,commercial-product,2.6,GAP-create-page,product,3,gap,
+мастер класс по самогоноварению спб,unknown,commercial-product,2.7,GAP-create-page,product,2,ligashow,НОВЫЙ кластер
+мастер класс настойки на самогоне,unknown,commercial-product,2.7,GAP-create-page,product,3,ligashow,
+мастер класс по настойкам спб,unknown,commercial-product,2.7,GAP-create-page,product,3,ligashow,
+домашние настойки мастер класс,unknown,commercial-product,2.7,GAP-create-page,product,3,ligashow,
+сигарный мастер класс спб,unknown,commercial-product,2.8,GAP-create-page,product,3,ligashow,НОВЫЙ кластер
+сигарное шоу на корпоратив,unknown,commercial-product,2.8,GAP-create-page,product,3,ligashow,
+молекулярная миксология мастер класс спб,unknown,commercial-product,1.4,GAP-create-page,product,2,ligashow,премиум фишка
+молекулярные коктейли спб,unknown,commercial-product,1.4,GAP-create-page,product,2,ligashow,
+крио бар на мероприятие спб,unknown,commercial-product,10.1,GAP-create-page,product,3,ligashow,экзотика
+азотный бар на праздник,unknown,commercial-product,10.1,GAP-create-page,product,3,ligashow,
+кофе принтер на мероприятие,unknown,commercial-product,3.1,GAP-create-page,product,3,ligashow,экзотика
+винное казино на корпоратив,unknown,commercial-product,2.9,GAP-create-page,product,3,ligashow,
+винное казино спб,unknown,commercial-product,2.9,GAP-create-page,product,3,ligashow,
+коктейльное казино спб,unknown,commercial-product,1.5,GAP-create-page,product,3,gap,для корпоратива
+безалкогольный мастер класс спб,unknown,commercial-product,1.6,GAP-create-page,product,2,ligashow,для семейного
+детский безалкогольный бар на праздник,unknown,commercial-product,1.6,GAP-create-page,product,3,ligashow,для семейных ДР
+семейный мастер класс спб взрослые и дети,unknown,commercial-occasion,6,GAP-create-page,landing,3,gap,
+# === Кластер 11 (сертификат) — масштабное расширение ===
+подарочный сертификат мужчине спб,unknown,commercial-gift,11.1,GAP-create-page,landing,1,aggregators,
+подарочный сертификат мужу спб,unknown,commercial-gift,11.1,GAP-create-page,landing,1,aggregators,
+подарочный сертификат на день рождения мужу,unknown,commercial-gift,11.1,GAP-create-page,landing,1,aggregators,
+сертификат впечатление мужу,unknown,commercial-gift,11.1,GAP-create-page,landing,1,aggregators,
+подарок мужу на годовщину впечатление,unknown,commercial-gift,11.1,GAP-create-page,landing,1,aggregators,
+оригинальный подарок мужу спб,unknown,commercial-gift,11.1,GAP-create-page,landing,1,aggregators,
+подарочный сертификат жене спб,unknown,commercial-gift,11.2,GAP-create-page,landing,1,aggregators,
+подарочный сертификат женщине спб,unknown,commercial-gift,11.2,GAP-create-page,landing,1,aggregators,
+сертификат впечатление жене на годовщину,unknown,commercial-gift,11.2,GAP-create-page,landing,1,aggregators,
+подарок паре впечатление спб,unknown,commercial-gift,11.3,GAP-create-page,landing,1,aggregators,
+подарочный сертификат для двоих спб,unknown,commercial-gift,11.3,GAP-create-page,landing,1,aggregators,
+романтический подарок для двоих спб,unknown,commercial-gift,11.3,GAP-create-page,landing,2,aggregators,
+подарок коллеге мужчине впечатление,unknown,commercial-gift,11.4,GAP-create-page,landing,1,aggregators,
+подарок коллеге женщине впечатление,unknown,commercial-gift,11.4,GAP-create-page,landing,2,aggregators,
+подарок начальнику оригинальный спб,unknown,commercial-gift,11.4,GAP-create-page,landing,2,aggregators,
+корпоративные подарки сотрудникам спб,unknown,commercial-gift,11.4,GAP-create-page,landing,2,aggregators,B2B
+подарок другу на день рождения впечатление,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+подарок брату впечатление,unknown,commercial-gift,11,GAP-create-page,landing,3,aggregators,
+подарочный сертификат подруге впечатление,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+# === Сезонные сертификаты ===
+подарок мужчине на 23 февраля 2026 спб,unknown,commercial-gift,11.5,GAP-create-page,landing,1,aggregators,
+подарок мужу на 23 февраля впечатление,unknown,commercial-gift,11.5,GAP-create-page,landing,1,aggregators,
+подарок коллегам мужчинам на 23 февраля,unknown,commercial-gift,11.5,GAP-create-page,landing,1,aggregators,
+подарок шефу на 23 февраля,unknown,commercial-gift,11.5,GAP-create-page,landing,2,aggregators,
+что подарить мужу на 23 февраля,unknown,commercial-gift,11.5,GAP-create-page,landing,1,aggregators,
+подарок женщине на 8 марта спб впечатление,unknown,commercial-gift,11.6,GAP-create-page,landing,1,aggregators,
+подарок жене на 8 марта впечатление,unknown,commercial-gift,11.6,GAP-create-page,landing,1,aggregators,
+подарок маме на 8 марта впечатление,unknown,commercial-gift,11.6,GAP-create-page,landing,2,aggregators,
+подарок коллеге женщине на 8 марта,unknown,commercial-gift,11.6,GAP-create-page,landing,1,aggregators,
+корпоративные подарки на новый год сотрудникам,unknown,commercial-gift,11.7,GAP-create-page,landing,2,aggregators,
+подарок коллегам на новый год впечатление,unknown,commercial-gift,11.7,GAP-create-page,landing,2,aggregators,
+подарок мужу на 14 февраля,unknown,commercial-gift,11,GAP-create-page,landing,3,aggregators,
+# === По цене (сертификаты) ===
+подарок мужчине до 5000 рублей спб,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+подарок мужчине до 10000 рублей спб,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+сертификат на впечатление до 5000 рублей,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+недорогой подарок впечатление спб,unknown,commercial-gift,11,GAP-create-page,landing,3,aggregators,
+премиум подарок мужчине спб,unknown,commercial-gift,11,GAP-create-page,landing,3,aggregators,
+# === Эмоция/упаковка ===
+оригинальный подарок мужчине спб,unknown,commercial-gift,11,GAP-create-page,landing,1,aggregators,
+необычный подарок мужу спб,unknown,commercial-gift,11,GAP-create-page,landing,1,aggregators,
+что подарить мужу который всё имеет,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+креативный подарок мужчине,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+запоминающийся подарок мужу,unknown,commercial-gift,11,GAP-create-page,landing,2,aggregators,
+подарок-впечатление мужчине спб,unknown,commercial-gift,11,GAP-create-page,landing,1,aggregators,
+эмоциональный подарок мужу,unknown,commercial-gift,11,GAP-create-page,landing,3,aggregators,
+# === Сертификаты на конкретный продукт через получателя ===
+сертификат на коктейльный мастер класс в подарок мужу,unknown,commercial-gift,11,GAP-create-page,landing,1,gap,
+сертификат на дегустацию вина в подарок мужу,unknown,commercial-gift,11,GAP-create-page,landing,1,gap,
+сертификат на латте арт в подарок жене,unknown,commercial-gift,11,GAP-create-page,landing,2,gap,
+сертификат на дегустацию виски в подарок мужу,unknown,commercial-gift,11,GAP-create-page,landing,1,gap,СИЛЬНАЯ комбинация
+сертификат на чайную церемонию в подарок маме,unknown,commercial-gift,11,GAP-create-page,landing,2,gap,
+# === Дизамбигуэйшн "три Лиги" (защита бренда) ===
+лига универ или лига барменов,unknown,brand-disambiguation,13,GAP-create-page,faq,2,ligashow,
+ligashow или ligabarspb что выбрать,unknown,brand-disambiguation,13,GAP-create-page,faq,2,ligashow,
+лига универ это лига барменов,unknown,brand-disambiguation,13,GAP-create-page,faq,2,ligashow,
+лига барменов россии спб отзывы,unknown,brand,13,/,homepage,3,ligashow,брендовый паразит
+# === Информационные расширения (для блога / AI Overviews) ===
+куда сходить вечером в спб взрослым,unknown,info,12,GAP-create-blog,article,3,SERP,
+что подарить мужчине который всё имеет,unknown,info,12,GAP-create-blog,article,2,aggregators,верх воронки
+как выбрать подарок-впечатление,unknown,info,12,GAP-create-blog,article,3,aggregators,
+что подарить любителю коктейлей,unknown,info,12,GAP-create-blog,article,2,gap,СИЛЬНЫЙ нишевой запрос
+что подарить любителю вина мужчине,unknown,info,12,GAP-create-blog,article,2,gap,
+что подарить любителю кофе,unknown,info,12,GAP-create-blog,article,2,gap,
+что подарить любителю виски,unknown,info,12,GAP-create-blog,article,2,gap,
+идеи для девичника в спб 2026,unknown,info,12,GAP-create-blog,article,2,SERP,
+сценарий мальчишника в спб,unknown,info,12,GAP-create-blog,article,3,gap,
+тимбилдинг идеи 2026,unknown,info,12,GAP-create-blog,article,2,SERP,
+как организовать корпоратив для it команды,unknown,info,12,GAP-create-blog,article,3,culinary,
+сравнение мастер классов и кулинарных мастер классов,unknown,info,12,GAP-create-blog,article,3,culinary,конкуренция
