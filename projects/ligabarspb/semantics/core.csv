@@ -1,0 +1,157 @@
+query,frequency,intent,cluster_id,target_url,page_type,priority,notes
+мастер класс по коктейлям спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,1,pillar
+коктейльный мастер класс спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,1,
+мастер класс по коктейлям санкт-петербург,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,2,
+мастер класс барменов спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,2,
+мастер класс по приготовлению коктейлей спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,2,
+мастер класс коктейли цена спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,2,коммерческий хвост
+мастер класс коктейли отзывы,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,3,
+мастер класс по миксологии спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,3,
+мастер класс коктейли для двоих,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,2,для романтика
+мастер класс коктейли для компании,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,2,для группы
+мастер класс по алкогольным коктейлям спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,3,
+мастер класс по безалкогольным коктейлям спб,unknown,commercial-product,1,/events/kokteylnye-master-klassy/,category,3,для семейного формата
+мастер класс шейк коктейли,unknown,commercial-product,1.1,/events/kokteylnye-master-klassy/kokteylnyy-master-klass-shake/,product,2,
+коктейль daiquiri спб мастер класс,unknown,commercial-product,1.1,/events/kokteylnye-master-klassy/kokteylnyy-master-klass-shake/,product,3,
+мастер класс мохито спб,unknown,commercial-product,1.2,/events/kokteylnye-master-klassy/kokteylnyy-master-klass-muddle/,product,2,
+коктейль мохито мастер класс,unknown,commercial-product,1.2,/events/kokteylnye-master-klassy/kokteylnyy-master-klass-muddle/,product,3,
+коктейль кайпиринья мастер класс,unknown,commercial-product,1.2,/events/kokteylnye-master-klassy/kokteylnyy-master-klass-muddle/,product,3,
+классические коктейли iba мастер класс,unknown,commercial-product,1.3,/events/kokteylnye-master-klassy/master-klass-klassicheskie-kokteyli/,product,2,
+дегустация вина спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,1,pillar
+мастер класс по вину спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,1,
+винный мастер класс спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,1,
+дегустация вина с сомелье спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,2,
+мастер класс сомелье спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,2,
+мастер класс по дегустации вина,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,2,
+сертификат на дегустацию вина спб,unknown,commercial-gift,2,/events/vinnye-master-klassy/,category,2,пересечение с кластером 11
+винная дегустация для двоих спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,2,
+винный вечер спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,3,
+мастер класс игристые вина спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,3,
+дегустация испанских вин спб,unknown,commercial-product,2.1,/events/vinnye-master-klassy/degustatsiya-ispanskikh-vin/,product,2,
+дегустация итальянских вин спб,unknown,commercial-product,2.2,GAP-create-page,product,2,гэп: создать страницу
+дегустация французских вин спб,unknown,commercial-product,2.3,GAP-create-page,product,2,гэп: создать страницу
+дегустация грузинских вин спб,unknown,commercial-product,2.4,GAP-create-page,product,3,гэп: создать страницу
+курс дегустации вина спб,unknown,commercial-product,2,/events/vinnye-master-klassy/,category,3,
+мастер класс по кофе спб,unknown,commercial-product,3,/events/kofeynye-master-klassy/,category,1,pillar
+мастер класс латте арт спб,unknown,commercial-product,3,/events/master-klass-latte-art/,product,1,рассинхрон URL
+мастер класс латте арт москва,unknown,commercial-product,3,/events/master-klass-latte-art/,product,2,Москва
+мастер класс бариста спб,unknown,commercial-product,3,/events/kofeynye-master-klassy/,category,2,
+кофейный мастер класс спб,unknown,commercial-product,3,/events/kofeynye-master-klassy/,category,2,
+как делать латте арт спб,unknown,commercial-product,3,/events/master-klass-latte-art/,product,2,
+курс латте арт для начинающих,unknown,commercial-product,3,/events/master-klass-latte-art/,product,2,
+мастер класс кофе в турке спб,unknown,commercial-product,3,/events/kofeynye-master-klassy/master-klass-barista-kofe-v-turke/,product,2,
+альтернативные способы заваривания кофе спб,unknown,commercial-product,3,/events/kofeynye-master-klassy/,category,3,
+мастер класс эспрессо спб,unknown,commercial-product,3,/events/kofeynye-master-klassy/,category,3,
+кофейная дегустация спб,unknown,commercial-product,3,/events/kofeynye-master-klassy/,category,3,
+чайная церемония спб,unknown,commercial-product,4,/events/chaynye-master-klassy/,category,1,pillar
+мастер класс по чаю спб,unknown,commercial-product,4,/events/chaynye-master-klassy/,category,1,
+китайская чайная церемония спб,unknown,commercial-product,4.1,/events/chaynye-master-klassy/kitayskiy-chay/,product,2,
+мастер класс чайная церемония,unknown,commercial-product,4,/events/chaynye-master-klassy/,category,2,
+дегустация чая спб,unknown,commercial-product,4,/events/chaynye-master-klassy/,category,2,
+сертификат на чайную церемонию,unknown,commercial-gift,4,/events/chaynye-master-klassy/,category,2,пересечение
+чайный мастер класс на двоих,unknown,commercial-product,4,/events/chaynye-master-klassy/,category,2,
+мастер класс матча спб,unknown,commercial-product,4.2,GAP-create-page,product,3,гэп
+японская чайная церемония спб,unknown,commercial-product,4.3,GAP-create-page,product,3,гэп
+мастер класс на корпоратив спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,ТОП-1 ивент-посадочная
+мастер класс на корпоратив москва,unknown,commercial-occasion,5,GAP-create-page,landing,2,
+коктейльный мастер класс корпоратив,unknown,commercial-occasion,5,GAP-create-page,landing,1,
+винный мастер класс корпоратив спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,
+идеи для корпоратива спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,
+необычный корпоратив спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,
+тимбилдинг идеи спб,unknown,commercial-occasion,5,GAP-create-page,landing,1,
+тимбилдинг в спб для сотрудников,unknown,commercial-occasion,5,GAP-create-page,landing,1,
+тимбилдинг мастер класс,unknown,commercial-occasion,5,GAP-create-page,landing,2,
+корпоратив на новый год спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,сезонный
+активный корпоратив спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,
+интересные форматы корпоратива,unknown,commercial-occasion,5,GAP-create-page,landing,2,
+корпоратив для маленькой компании спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,
+корпоратив для большой компании спб,unknown,commercial-occasion,5,GAP-create-page,landing,2,для выездного формата
+мастер класс на день рождения спб,unknown,commercial-occasion,6,GAP-create-page,landing,1,ТОП-2 ивент-посадочная
+мастер класс на день рождения взрослому,unknown,commercial-occasion,6,GAP-create-page,landing,1,
+куда сходить на день рождения спб,unknown,commercial-occasion,6,GAP-create-page,landing,1,
+где отметить день рождения спб взрослому,unknown,commercial-occasion,6,GAP-create-page,landing,1,
+идеи для дня рождения спб,unknown,commercial-occasion,6,GAP-create-page,landing,1,
+необычно отметить день рождения спб,unknown,commercial-occasion,6,GAP-create-page,landing,2,
+день рождения для компании спб,unknown,commercial-occasion,6,GAP-create-page,landing,2,
+сюрприз на день рождения спб,unknown,commercial-occasion,6,GAP-create-page,landing,3,
+интересный день рождения для взрослых,unknown,commercial-occasion,6,GAP-create-page,landing,2,
+девичник спб идеи,unknown,commercial-occasion,7,GAP-create-page,landing,1,ТОП-3 ивент-посадочная
+мастер класс на девичник спб,unknown,commercial-occasion,7,GAP-create-page,landing,1,
+необычный девичник спб,unknown,commercial-occasion,7,GAP-create-page,landing,1,
+куда сходить на девичник спб,unknown,commercial-occasion,7,GAP-create-page,landing,1,
+девичник коктейли спб,unknown,commercial-occasion,7,GAP-create-page,landing,1,
+винный девичник спб,unknown,commercial-occasion,7,GAP-create-page,landing,2,
+идеи для девичника,unknown,commercial-occasion,7,GAP-create-page,landing,2,
+девичник недорого спб,unknown,commercial-occasion,7,GAP-create-page,landing,2,
+девичник в лофте спб,unknown,commercial-occasion,7,GAP-create-page,landing,2,
+мальчишник спб идеи,unknown,commercial-occasion,8,GAP-create-page,landing,2,
+мастер класс на мальчишник,unknown,commercial-occasion,8,GAP-create-page,landing,2,
+необычный мальчишник спб,unknown,commercial-occasion,8,GAP-create-page,landing,2,
+куда сходить на мальчишник спб,unknown,commercial-occasion,8,GAP-create-page,landing,2,
+мальчишник коктейли,unknown,commercial-occasion,8,GAP-create-page,landing,2,
+мальчишник виски дегустация,unknown,commercial-occasion,8,GAP-create-page,landing,3,идея для отдельного MK
+мальчишник в лофте,unknown,commercial-occasion,8,GAP-create-page,landing,2,
+выездной бар на свадьбу спб,unknown,commercial-occasion,9,GAP-create-page,landing,2,
+бармен на свадьбу спб,unknown,commercial-occasion,9,GAP-create-page,landing,2,
+мастер класс коктейлей на свадьбу,unknown,commercial-occasion,9,GAP-create-page,landing,3,
+выездной коктейль бар свадьба,unknown,commercial-occasion,9,GAP-create-page,landing,2,
+выездной бар спб,unknown,commercial-product,10,GAP-create-page,landing,1,ТОП-4
+выездной коктейль бар спб,unknown,commercial-product,10,GAP-create-page,landing,1,
+мобильный бар спб,unknown,commercial-product,10,GAP-create-page,landing,2,
+выездной мастер класс по коктейлям спб,unknown,commercial-product,10,GAP-create-page,landing,1,
+выездной бармен на праздник,unknown,commercial-product,10,GAP-create-page,landing,2,
+бармен на праздник спб,unknown,commercial-product,10,GAP-create-page,landing,2,
+бармен на дом спб,unknown,commercial-product,10,GAP-create-page,landing,2,
+кейтеринг с баром спб,unknown,commercial-product,10,GAP-create-page,landing,3,
+выездное барное шоу спб,unknown,commercial-product,10,GAP-create-page,landing,2,
+выездной бар москва,unknown,commercial-product,10,GAP-create-page,landing,3,Москва
+подарочный сертификат на мастер класс спб,unknown,commercial-gift,11,GAP-create-page,landing,1,ТОП-5
+сертификат на коктейльный мастер класс спб,unknown,commercial-gift,11,GAP-create-page,landing,1,
+сертификат на дегустацию вина спб,unknown,commercial-gift,11,GAP-create-page,landing,1,
+купить сертификат впечатление спб,unknown,commercial-gift,11,GAP-create-page,landing,2,
+электронный сертификат на мастер класс спб,unknown,commercial-gift,11,GAP-create-page,landing,2,
+сертификат на мастер класс в подарок,unknown,commercial-gift,11,GAP-create-page,landing,2,
+что подарить мужчине впечатление спб,unknown,commercial-gift,11,GAP-create-page,landing,1,
+что подарить мужу на день рождения,unknown,commercial-gift,11,GAP-create-page,landing,2,
+подарок мужчине который всё имеет,unknown,commercial-gift,11,GAP-create-page,landing,2,
+подарок парню впечатление,unknown,commercial-gift,11,GAP-create-page,landing,2,
+подарок коллеге мужчине,unknown,commercial-gift,11,GAP-create-page,landing,3,
+что подарить женщине впечатление,unknown,commercial-gift,11,GAP-create-page,landing,2,
+подарок жене на годовщину спб,unknown,commercial-gift,11,GAP-create-page,landing,2,
+подарок начальнику впечатление,unknown,commercial-gift,11,GAP-create-page,landing,3,
+оригинальный подарок мужчине,unknown,commercial-gift,11,GAP-create-page,landing,2,
+что подарить на 23 февраля коллеге,unknown,commercial-gift,11,GAP-create-page,landing,3,сезонный
+что подарить на 8 марта оригинально,unknown,commercial-gift,11,GAP-create-page,landing,3,сезонный
+как готовить мохито,unknown,info,12,GAP-create-blog,article,3,для AI Overviews
+как готовить дайкири,unknown,info,12,GAP-create-blog,article,3,
+как готовить негрони,unknown,info,12,GAP-create-blog,article,3,
+история коктейля негрони,unknown,info,12,GAP-create-blog,article,3,
+что такое миксология,unknown,info,12,GAP-create-blog,article,3,
+виды коктейлей,unknown,info,12,GAP-create-blog,article,3,
+классические коктейли список,unknown,info,12,GAP-create-blog,article,3,
+коктейли iba список,unknown,info,12,GAP-create-blog,article,3,
+как пользоваться шейкером,unknown,info,12,GAP-create-blog,article,3,
+что должно быть в домашнем баре,unknown,info,12,GAP-create-blog,article,3,
+как правильно дегустировать вино,unknown,info,12,GAP-create-blog,article,3,
+как держать бокал с вином,unknown,info,12,GAP-create-blog,article,3,
+виды дегустации вина,unknown,info,12,GAP-create-blog,article,3,
+что такое сомелье,unknown,info,12,GAP-create-blog,article,3,
+как выбрать вино в подарок,unknown,info,12,GAP-create-blog,article,3,
+температура подачи вина,unknown,info,12,GAP-create-blog,article,3,
+как заваривать кофе в турке,unknown,info,12,GAP-create-blog,article,3,
+как делать латте арт дома,unknown,info,12,GAP-create-blog,article,3,
+альтернативные способы заваривания кофе,unknown,info,12,GAP-create-blog,article,3,
+что такое v60 chemex aeropress,unknown,info,12,GAP-create-blog,article,3,
+как взбивать молоко для капучино,unknown,info,12,GAP-create-blog,article,3,
+китайская чайная церемония что это,unknown,info,12,GAP-create-blog,article,3,
+виды китайского чая,unknown,info,12,GAP-create-blog,article,3,
+как заваривать пуэр,unknown,info,12,GAP-create-blog,article,3,
+что такое матча,unknown,info,12,GAP-create-blog,article,3,
+как проводить чайную церемонию дома,unknown,info,12,GAP-create-blog,article,3,
+лига универ,unknown,brand,13,/,homepage,1,брендовый
+лига универ спб,unknown,brand,13,/,homepage,1,
+лига универ отзывы,unknown,brand,13,/,homepage,2,
+лига универ цены,unknown,brand,13,/,homepage,2,
+ligabarspb отзывы,unknown,brand,13,/,homepage,2,
+лига универ адрес,unknown,brand,13,/,homepage,2,
+лига универ мастер класс,unknown,brand,13,/events/,category,1,
